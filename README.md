@@ -27,7 +27,7 @@ Desenvolvedor Front-End apaixonado por criar **experiências web escaláveis e p
 - 🔭 Atualmente trabalhando em **Giromax** - plataforma de catálogo de afiliados
 - 🌱 Aprendendo **AWS, Cibersegurança e Arquitetura de Software**
 - 💼 Freelancer full-stack com foco em entregas de alta qualidade
-- 📍 Localizado em **Maracanaú, Ceará - Brasil** | Trabalho 100% remoto
+- 📍 Localizado em **Fortaleza, Ceará - Brasil** | Trabalho 100% remoto
 - ⚡ Fun fact: Ex-Problem Solver da Amazon (aumentei eficiência em 90%!)
 
 ---
