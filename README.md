@@ -2,12 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Especialista+em+React+%26+Next.js;Criando+experiências+incríveis+na+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Next.js+Specialist+%26+Full+Stack;Performance+Obsessed;Ex-Amazon+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  <a href="https://kauan-dev.vercel.app" target="_blank">
+  <a href="https://portfolio-neobrutalista.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kauannkelvinn/" target="_blank">
@@ -20,45 +20,96 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Desenvolvedor Front-End apaixonado por criar **experiências web escaláveis e performáticas**. Especializado em transformar designs complexos em aplicações modernas usando **React, TypeScript e Next.js**.
+**Software Engineer** focado em arquitetura escalável e performance extrema. Minha transição de **Problem Solver na Amazon** para a engenharia me deu uma visão única sobre eficiência e resolução de gargalos. Hoje, transformo designs complexos em aplicações modernas usando **React, TypeScript, Next.js 16 e Three.js**.
 
-- 🔭 Atualmente trabalhando em **Giromax** - plataforma de catálogo de afiliados
-- 🌱 Aprendendo **AWS, Cibersegurança e Arquitetura de Software**
-- 💼 Freelancer full-stack com foco em entregas de alta qualidade
-- 📍 Localizado em **Fortaleza, Ceará - Brasil** | Trabalho 100% remoto
-- ⚡ Fun fact: Ex-Problem Solver da Amazon (aumentei eficiência em 90%!)
+- Atualmente trabalhando em **Giromax** - Arquitetura de E-commerce Enterprise
+- Focado em **Core Web Vitals, 3D Rendering e Cibersegurança**
+- Freelancer Full Stack entregando soluções de alto impacto
+- Localizado em **Fortaleza, Ceará - Brasil** | Trabalho 100% remoto
+- **Fun fact:** Aumentei a eficiência operacional em 90% na Amazon usando análise de dados.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### **Front-End**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### **Core & Front-End**
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### **Back-End & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Projetos em Destaque (Engenharia Real)
+
+### [Neo-Brutalist Portfolio (3D)](https://github.com/kauannkelvinn/portfolio-neobrutalista)
+**Experiência imersiva com Next.js 16 e WebGL**
+
+![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- ✅ **Performance Extrema:** Score 100 no Lighthouse mesmo rodando 3D pesado.
+- ✅ **Engenharia:** Uso de Draco Compression e Lazy Loading granular.
+- ✅ **Design:** Estética Neo-Brutalista com animações Framer Motion.
+- 🔗 [Ver Demo Ao Vivo](https://portfolio-neobrutalista.vercel.app)
+
+---
+
+### [Giromax Showcase (Enterprise)](https://github.com/kauannkelvinn/giromax-showcase)
+**Plataforma Full Stack de Afiliados e E-commerce**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+- ✅ **Arquitetura Monorepo:** Estrutura escalável para grandes aplicações.
+- ✅ **Segurança:** Implementação de RBAC (Role-Based Access Control) e JWT.
+- ✅ **Backend:** API REST otimizada com PostgreSQL e Prisma ORM.
+
+---
+
+### [SaaS Kanban App](https://github.com/kauannkelvinn/saas-kanban)
+**App de produtividade complexo com Drag & Drop**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Zustand](https://img.shields.io/badge/-Zustand-orange?style=flat-square)
+![dnd-kit](https://img.shields.io/badge/-dnd--kit-black?style=flat-square)
+
+- ✅ **Estado Global:** Gerenciamento de estado complexo com Zustand (evitando re-renders).
+- ✅ **Interatividade:** Drag and drop fluido e acessível.
+- ✅ **Persistência:** LocalStorage e sincronização de dados.
+- 🔗 [Ver Demo](https://saas-kanban.vercel.app)
+
+---
+
+### [Calculadora Juros Pro](https://github.com/kauannkelvinn/juros-compostos-pro)
+**Ferramenta financeira com algoritmos de precisão**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Recharts](https://img.shields.io/badge/-Recharts-22b5bf?style=flat-square)
+
+- ✅ **Refatoração de Legado:** Migração de Vanilla JS para Arquitetura React Moderna.
+- ✅ **Visualização de Dados:** Gráficos dinâmicos e cálculos financeiros em tempo real.
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauannkelvinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -71,120 +122,24 @@ Desenvolvedor Front-End apaixonado por criar **experiências web escaláveis e p
 
 ---
 
-## 🎯 Projetos em Destaque
+## Experiência & Formação
 
-### 🛒 [Checkout E-commerce](https://github.com/kauannkelvinn/checkout-project)
-**Fluxo de checkout multi-etapas com validação em tempo real**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- ✅ Validação robusta com **Zod** e **React Hook Form**
-- ✅ UX otimizada para conversão
-- ✅ Formulário complexo multi-step
-- 🔗 [Ver Demo](https://seu-demo-link.vercel.app) | [Código](https://github.com/kauannkelvinn/checkout-project)
+- **Análise e Desenvolvimento de Sistemas** - UNINASSAU (2026)
+- **Problem Solver @ Amazon** (2023 - 2025)
+- **Freelancer Full Stack** (Projetos Enterprise & E-commerce)
 
 ---
-
-### 👥 [Dashboard CRUD Funcionários](https://github.com/kauannkelvinn/kauan-employee-manager)
-**Sistema completo de gerenciamento com Firebase**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-- ✅ CRUD completo (Create, Read, Update, Delete)
-- ✅ Autenticação segura com Firebase Auth
-- ✅ Sincronização em tempo real com Firestore
-- 🔗 [Ver Demo](https://seu-demo-link.vercel.app) | [Código](https://github.com/kauannkelvinn/kauan-employee-manager)
-
----
-
-### 🎮 [Pokédex SPA](https://github.com/kauannkelvinn/pokedex)
-**Single Page Application consumindo API REST**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- ✅ Consumo eficiente da PokéAPI
-- ✅ Paginação e filtros dinâmicos
-- ✅ Gerenciamento de estado assíncrono
-- 🔗 [Ver Demo](https://seu-demo-link.vercel.app) | [Código](https://github.com/kauannkelvinn/pokedex)
-
----
-
-### 💼 [Portfólio Pessoal com CI/CD](https://github.com/kauannkelvinn/kauan-portfolio)
-**Pipeline automatizado de deploy**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-- ✅ CI/CD automatizado com AWS Amplify
-- ✅ Deploy contínuo via GitHub
-- ✅ Design responsivo e moderno
-- 🔗 [Ver Demo](https://kauan-dev.vercel.app) | [Código](https://github.com/kauannkelvinn/kauan-portfolio)
-
----
-
-## 💼 Experiência Profissional
-
-### 🚀 **Desenvolvedor Fullstack Freelancer** | Out 2024 - Presente
-**Giromax - Plataforma de Catálogo de Afiliados**
-- Arquitetura completa da aplicação Next.js + Supabase
-- Desenvolvimento de painel administrativo (CRUD)
-- Vitrine de produtos moderna e responsiva
-
-### 🏗️ **Desenvolvedor Fullstack Freelancer** | Ago 2024 - Out 2024
-**Aplicação de Sorteios Online**
-- Stack: Supabase + TailwindCSS + JavaScript
-- Integração com WhatsApp API
-- Deploy automatizado na Vercel
-
-### 📦 **Problem Solver - Amazon** | Jun 2023 - Mar 2025
-- ⚡ Aumentei eficiência em **90%** via análise de dados e automação
-- ⏱️ Reduzi tempo de resolução de incidentes em **60 minutos**
-
----
-
-## 🎓 Educação & Certificações
-
-- 🎓 **Análise e Desenvolvimento de Sistemas** - UNINASSAU (cursando)
-- 🏆 **Certificado Desenvolvedor Frontend** - Dev em Dobro (2024)
-- 🔐 **Cibersegurança** - Cisco Networking Academy (cursando)
-- ☁️ **AWS Essentials** | 🎨 **UI Design com Figma** | 📚 **Git Avançado**
-
----
-
-## 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannkelvinn&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 💬 Vamos Conversar?
-
-Estou sempre aberto a **novos projetos, colaborações e oportunidades**! Se você está procurando um desenvolvedor front-end comprometido com qualidade e entregas no prazo, vamos conversar!
-
-<p align="center">
-  <a href="https://kauan-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio-Visite_agora-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:kauankelvinfullstack@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Entre_em_contato-red?style=for-the-badge" />
+  <a href="https://portfolio-neobrutalista.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-Visite_agora-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kauannkelvinn/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kauannkelvinn&color=blue&style=for-the-badge" />
 </div>
 
----
-
 <div align="center">
+  <br>
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
