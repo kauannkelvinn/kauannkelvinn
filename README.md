@@ -57,7 +57,7 @@
 
 ## Projetos em Destaque (Engenharia Real)
 
-### [Neo-Brutalist Portfolio (3D)](https://github.com/kauannkelvinn/portfolio-neobrutalista)
+### [Neo-Brutalist Portfolio (3D)](https://github.com/kauannkelvinn/portfolio-neobrutalist)
 **Experiência imersiva com Next.js 16 e WebGL**
 
 ![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
