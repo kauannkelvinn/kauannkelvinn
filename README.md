@@ -27,7 +27,6 @@
 - Atualmente trabalhando em **Giromax** - Arquitetura de E-commerce Enterprise
 - Focado em **Core Web Vitals, 3D Rendering e Cibersegurança**
 - Freelancer Full Stack entregando soluções de alto impacto
-- Localizado em **Fortaleza, Ceará - Brasil** | Trabalho 100% remoto
 - **Fun fact:** Aumentei a eficiência operacional em 90% na Amazon usando análise de dados.
 
 ---
