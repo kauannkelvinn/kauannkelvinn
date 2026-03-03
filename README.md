@@ -133,7 +133,7 @@
   <a href="https://portfolio-neobrutalista.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfólio-Visite_agora-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kauannkelvinn/" target="_blank">
+  <a href="https://www.linkedin.com/in/kauannkelvin/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
