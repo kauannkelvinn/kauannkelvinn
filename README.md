@@ -12,5 +12,4 @@ Minha abordagem é simples: entender o problema de negócio, escrever código su
 
 ### Contato
 - [LinkedIn](https://www.linkedin.com/in/kauannkelvin/)
-- [Portfólio](https://portfolio-neobrutalista.vercel.app)
 - E-mail: kauankelvinfullstack@gmail.com
