@@ -79,4 +79,4 @@ Previously worked at Amazon in operational problem-solving and incident analysis
 ## Contact
 
 - LinkedIn: [kauannkelvinn](https://linkedin.com)
-- Email: kauankelvinfullstack@gmail.com
+- Email: kauankelvinfullstack@gmail.com 
