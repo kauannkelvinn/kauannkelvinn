@@ -34,10 +34,6 @@ Dashboard integrating Gemini AI, WhatsApp automation, habit tracking and persona
 Cinematic web experience with React Three Fiber and adaptive rendering. Migrated media pipeline from Cloudinary to Vercel Blob for performance.
 `Next.js` `React Three Fiber` `Framer Motion` `GSAP`
 
-**[desafio-frontend](https://colmeiachallenge.vercel.app)** — E-commerce Checkout Flow
-Complete checkout flow with dynamic product rendering and multi-step UX.
-`Next.js` `TypeScript` `Tailwind CSS`
-
 ---
 
 ## Experience
